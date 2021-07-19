@@ -1,0 +1,6 @@
+framework module Pods_NormalTestAPI {
+  umbrella header "Pods-NormalTestAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
